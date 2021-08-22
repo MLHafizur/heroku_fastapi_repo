@@ -1,0 +1,6 @@
+2021-07-11 16:11:11,288 SUCCESS: Read file at ../data/clean_sample.csv with 32561 rows
+2021-07-11 16:14:41,435 Test Set Metrics:
+2021-07-11 16:14:41,435 Test precision: 0.7711
+2021-07-11 16:14:41,435 Test recall: 0.5902
+2021-07-11 16:14:41,435 Test fbeta: 0.6686
+
