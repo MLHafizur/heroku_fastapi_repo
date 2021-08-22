@@ -6,8 +6,8 @@ This file can also be imported as a module and contains the following
 functions:
     * import_data - returns dataframe for the csv found at pth
 
-Author: Ahiwe Onyebuchi Valentine
-Date: July 2021
+Author: Md Hafizur Rahman
+Date: Aug 2021
 """
 
 # Add the necessary imports for the starter code.
