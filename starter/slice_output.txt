@@ -250,3 +250,15 @@
 2021-07-11 16:14:43,143 native-country recall: 1.0000
 2021-07-11 16:14:43,143 native-country fbeta: 1.0000
 
+2021-08-23 15:40:00,240 Feature: native-country
+2021-08-23 15:40:00,242 Class: usa
+2021-08-23 15:40:00,242 native-country precision: 0.8035
+2021-08-23 15:40:00,242 native-country recall: 0.5878
+2021-08-23 15:40:00,242 native-country fbeta: 0.6789
+
+2021-08-23 15:40:00,319 Feature: native-country
+2021-08-23 15:40:00,320 Class: non_usa
+2021-08-23 15:40:00,321 native-country precision: 0.8177
+2021-08-23 15:40:00,321 native-country recall: 0.5577
+2021-08-23 15:40:00,321 native-country fbeta: 0.6631
+

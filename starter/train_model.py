@@ -90,7 +90,6 @@ def get_sliced_metrics(df, feature, model, enc, lb):
 
 cat_features = [
     "workclass",
-    "education",
     "marital-status",
     "occupation",
     "relationship",

@@ -4,3 +4,10 @@
 2021-07-11 16:14:41,435 Test recall: 0.5902
 2021-07-11 16:14:41,435 Test fbeta: 0.6686
 
+2021-08-23 15:35:50,419 SUCCESS: Read file at ../data/clean_sample.csv with 30007 rows
+2021-08-23 15:37:24,709 SUCCESS: Read file at ../data/clean_sample.csv with 30007 rows
+2021-08-23 15:39:59,596 Test Set Metrics:
+2021-08-23 15:39:59,597 Test precision: 0.7689
+2021-08-23 15:39:59,597 Test recall: 0.5357
+2021-08-23 15:39:59,597 Test fbeta: 0.6315
+
