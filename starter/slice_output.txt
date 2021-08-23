@@ -262,3 +262,507 @@
 2021-08-23 15:40:00,321 native-country recall: 0.5577
 2021-08-23 15:40:00,321 native-country fbeta: 0.6631
 
+2021-08-23 16:09:14,485 Feature: native-country
+2021-08-23 16:09:14,485 Class: United-States
+2021-08-23 16:09:14,485 native-country precision: 0.8072
+2021-08-23 16:09:14,485 native-country recall: 0.6231
+2021-08-23 16:09:14,485 native-country fbeta: 0.7033
+
+2021-08-23 16:09:14,497 Feature: native-country
+2021-08-23 16:09:14,497 Class: Cuba
+2021-08-23 16:09:14,497 native-country precision: 0.9333
+2021-08-23 16:09:14,497 native-country recall: 0.5600
+2021-08-23 16:09:14,497 native-country fbeta: 0.7000
+
+2021-08-23 16:09:14,510 Feature: native-country
+2021-08-23 16:09:14,510 Class: Jamaica
+2021-08-23 16:09:14,510 native-country precision: 0.5714
+2021-08-23 16:09:14,510 native-country recall: 0.4000
+2021-08-23 16:09:14,510 native-country fbeta: 0.4706
+
+2021-08-23 16:09:14,522 Feature: native-country
+2021-08-23 16:09:14,522 Class: India
+2021-08-23 16:09:14,522 native-country precision: 0.6875
+2021-08-23 16:09:14,522 native-country recall: 0.8250
+2021-08-23 16:09:14,522 native-country fbeta: 0.7500
+
+2021-08-23 16:09:14,539 Feature: native-country
+2021-08-23 16:09:14,540 Class: ?
+2021-08-23 16:09:14,540 native-country precision: 0.7812
+2021-08-23 16:09:14,540 native-country recall: 0.6849
+2021-08-23 16:09:14,540 native-country fbeta: 0.7299
+
+2021-08-23 16:09:14,555 Feature: native-country
+2021-08-23 16:09:14,556 Class: Mexico
+2021-08-23 16:09:14,556 native-country precision: 0.8571
+2021-08-23 16:09:14,556 native-country recall: 0.3636
+2021-08-23 16:09:14,556 native-country fbeta: 0.5106
+
+2021-08-23 16:09:14,567 Feature: native-country
+2021-08-23 16:09:14,568 Class: South
+2021-08-23 16:09:14,568 native-country precision: 0.5556
+2021-08-23 16:09:14,568 native-country recall: 0.6250
+2021-08-23 16:09:14,568 native-country fbeta: 0.5882
+
+2021-08-23 16:09:14,578 Feature: native-country
+2021-08-23 16:09:14,578 Class: Puerto-Rico
+2021-08-23 16:09:14,578 native-country precision: 0.6923
+2021-08-23 16:09:14,578 native-country recall: 0.7500
+2021-08-23 16:09:14,578 native-country fbeta: 0.7200
+
+2021-08-23 16:09:14,587 Feature: native-country
+2021-08-23 16:09:14,588 Class: Honduras
+2021-08-23 16:09:14,588 native-country precision: 1.0000
+2021-08-23 16:09:14,588 native-country recall: 1.0000
+2021-08-23 16:09:14,588 native-country fbeta: 1.0000
+
+2021-08-23 16:09:14,600 Feature: native-country
+2021-08-23 16:09:14,601 Class: England
+2021-08-23 16:09:14,601 native-country precision: 0.8571
+2021-08-23 16:09:14,601 native-country recall: 0.6000
+2021-08-23 16:09:14,601 native-country fbeta: 0.7059
+
+2021-08-23 16:09:14,612 Feature: native-country
+2021-08-23 16:09:14,612 Class: Canada
+2021-08-23 16:09:14,612 native-country precision: 0.7931
+2021-08-23 16:09:14,613 native-country recall: 0.5897
+2021-08-23 16:09:14,613 native-country fbeta: 0.6765
+
+2021-08-23 16:09:14,624 Feature: native-country
+2021-08-23 16:09:14,624 Class: Germany
+2021-08-23 16:09:14,624 native-country precision: 0.8387
+2021-08-23 16:09:14,624 native-country recall: 0.5909
+2021-08-23 16:09:14,624 native-country fbeta: 0.6933
+
+2021-08-23 16:09:14,634 Feature: native-country
+2021-08-23 16:09:14,634 Class: Iran
+2021-08-23 16:09:14,635 native-country precision: 0.7500
+2021-08-23 16:09:14,635 native-country recall: 0.8333
+2021-08-23 16:09:14,635 native-country fbeta: 0.7895
+
+2021-08-23 16:09:14,646 Feature: native-country
+2021-08-23 16:09:14,646 Class: Philippines
+2021-08-23 16:09:14,646 native-country precision: 0.7963
+2021-08-23 16:09:14,646 native-country recall: 0.7049
+2021-08-23 16:09:14,646 native-country fbeta: 0.7478
+
+2021-08-23 16:09:14,656 Feature: native-country
+2021-08-23 16:09:14,657 Class: Italy
+2021-08-23 16:09:14,657 native-country precision: 0.8462
+2021-08-23 16:09:14,657 native-country recall: 0.4400
+2021-08-23 16:09:14,657 native-country fbeta: 0.5789
+
+2021-08-23 16:09:14,666 Feature: native-country
+2021-08-23 16:09:14,667 Class: Poland
+2021-08-23 16:09:14,667 native-country precision: 0.7143
+2021-08-23 16:09:14,667 native-country recall: 0.4167
+2021-08-23 16:09:14,667 native-country fbeta: 0.5263
+
+2021-08-23 16:09:14,678 Feature: native-country
+2021-08-23 16:09:14,678 Class: Columbia
+2021-08-23 16:09:14,678 native-country precision: 0.3333
+2021-08-23 16:09:14,678 native-country recall: 0.5000
+2021-08-23 16:09:14,678 native-country fbeta: 0.4000
+
+2021-08-23 16:09:14,688 Feature: native-country
+2021-08-23 16:09:14,688 Class: Cambodia
+2021-08-23 16:09:14,688 native-country precision: 1.0000
+2021-08-23 16:09:14,688 native-country recall: 0.2857
+2021-08-23 16:09:14,688 native-country fbeta: 0.4444
+
+2021-08-23 16:09:14,697 Feature: native-country
+2021-08-23 16:09:14,697 Class: Thailand
+2021-08-23 16:09:14,697 native-country precision: 1.0000
+2021-08-23 16:09:14,697 native-country recall: 1.0000
+2021-08-23 16:09:14,697 native-country fbeta: 1.0000
+
+2021-08-23 16:09:14,706 Feature: native-country
+2021-08-23 16:09:14,706 Class: Ecuador
+2021-08-23 16:09:14,706 native-country precision: 0.5000
+2021-08-23 16:09:14,706 native-country recall: 0.5000
+2021-08-23 16:09:14,706 native-country fbeta: 0.5000
+
+2021-08-23 16:09:14,716 Feature: native-country
+2021-08-23 16:09:14,716 Class: Laos
+2021-08-23 16:09:14,716 native-country precision: 1.0000
+2021-08-23 16:09:14,716 native-country recall: 0.5000
+2021-08-23 16:09:14,716 native-country fbeta: 0.6667
+
+2021-08-23 16:09:14,726 Feature: native-country
+2021-08-23 16:09:14,726 Class: Taiwan
+2021-08-23 16:09:14,726 native-country precision: 0.8421
+2021-08-23 16:09:14,726 native-country recall: 0.8000
+2021-08-23 16:09:14,726 native-country fbeta: 0.8205
+
+2021-08-23 16:09:14,736 Feature: native-country
+2021-08-23 16:09:14,736 Class: Haiti
+2021-08-23 16:09:14,736 native-country precision: 0.6667
+2021-08-23 16:09:14,736 native-country recall: 0.5000
+2021-08-23 16:09:14,736 native-country fbeta: 0.5714
+
+2021-08-23 16:09:14,746 Feature: native-country
+2021-08-23 16:09:14,746 Class: Portugal
+2021-08-23 16:09:14,746 native-country precision: 1.0000
+2021-08-23 16:09:14,746 native-country recall: 0.2500
+2021-08-23 16:09:14,746 native-country fbeta: 0.4000
+
+2021-08-23 16:09:14,757 Feature: native-country
+2021-08-23 16:09:14,757 Class: Dominican-Republic
+2021-08-23 16:09:14,757 native-country precision: 0.0000
+2021-08-23 16:09:14,757 native-country recall: 0.0000
+2021-08-23 16:09:14,757 native-country fbeta: 0.0000
+
+2021-08-23 16:09:14,768 Feature: native-country
+2021-08-23 16:09:14,768 Class: El-Salvador
+2021-08-23 16:09:14,768 native-country precision: 1.0000
+2021-08-23 16:09:14,768 native-country recall: 0.7778
+2021-08-23 16:09:14,768 native-country fbeta: 0.8750
+
+2021-08-23 16:09:14,777 Feature: native-country
+2021-08-23 16:09:14,777 Class: France
+2021-08-23 16:09:14,777 native-country precision: 0.8000
+2021-08-23 16:09:14,778 native-country recall: 0.6667
+2021-08-23 16:09:14,778 native-country fbeta: 0.7273
+
+2021-08-23 16:09:14,789 Feature: native-country
+2021-08-23 16:09:14,789 Class: Guatemala
+2021-08-23 16:09:14,789 native-country precision: 1.0000
+2021-08-23 16:09:14,789 native-country recall: 0.3333
+2021-08-23 16:09:14,789 native-country fbeta: 0.5000
+
+2021-08-23 16:09:14,799 Feature: native-country
+2021-08-23 16:09:14,799 Class: China
+2021-08-23 16:09:14,799 native-country precision: 0.7083
+2021-08-23 16:09:14,799 native-country recall: 0.8500
+2021-08-23 16:09:14,799 native-country fbeta: 0.7727
+
+2021-08-23 16:09:14,809 Feature: native-country
+2021-08-23 16:09:14,809 Class: Japan
+2021-08-23 16:09:14,809 native-country precision: 0.7727
+2021-08-23 16:09:14,809 native-country recall: 0.7083
+2021-08-23 16:09:14,809 native-country fbeta: 0.7391
+
+2021-08-23 16:09:14,819 Feature: native-country
+2021-08-23 16:09:14,819 Class: Yugoslavia
+2021-08-23 16:09:14,819 native-country precision: 0.8000
+2021-08-23 16:09:14,819 native-country recall: 0.6667
+2021-08-23 16:09:14,819 native-country fbeta: 0.7273
+
+2021-08-23 16:09:14,829 Feature: native-country
+2021-08-23 16:09:14,829 Class: Peru
+2021-08-23 16:09:14,829 native-country precision: 1.0000
+2021-08-23 16:09:14,829 native-country recall: 0.5000
+2021-08-23 16:09:14,829 native-country fbeta: 0.6667
+
+2021-08-23 16:09:14,838 Feature: native-country
+2021-08-23 16:09:14,838 Class: Outlying-US(Guam-USVI-etc)
+2021-08-23 16:09:14,838 native-country precision: 1.0000
+2021-08-23 16:09:14,838 native-country recall: 1.0000
+2021-08-23 16:09:14,838 native-country fbeta: 1.0000
+
+2021-08-23 16:09:14,848 Feature: native-country
+2021-08-23 16:09:14,849 Class: Scotland
+2021-08-23 16:09:14,849 native-country precision: 1.0000
+2021-08-23 16:09:14,849 native-country recall: 1.0000
+2021-08-23 16:09:14,849 native-country fbeta: 1.0000
+
+2021-08-23 16:09:14,858 Feature: native-country
+2021-08-23 16:09:14,858 Class: Trinadad&Tobago
+2021-08-23 16:09:14,858 native-country precision: 0.5000
+2021-08-23 16:09:14,858 native-country recall: 0.5000
+2021-08-23 16:09:14,858 native-country fbeta: 0.5000
+
+2021-08-23 16:09:14,868 Feature: native-country
+2021-08-23 16:09:14,868 Class: Greece
+2021-08-23 16:09:14,868 native-country precision: 0.8571
+2021-08-23 16:09:14,868 native-country recall: 0.7500
+2021-08-23 16:09:14,868 native-country fbeta: 0.8000
+
+2021-08-23 16:09:14,878 Feature: native-country
+2021-08-23 16:09:14,879 Class: Nicaragua
+2021-08-23 16:09:14,879 native-country precision: 0.6667
+2021-08-23 16:09:14,879 native-country recall: 1.0000
+2021-08-23 16:09:14,879 native-country fbeta: 0.8000
+
+2021-08-23 16:09:14,889 Feature: native-country
+2021-08-23 16:09:14,890 Class: Vietnam
+2021-08-23 16:09:14,890 native-country precision: 0.5000
+2021-08-23 16:09:14,890 native-country recall: 0.4000
+2021-08-23 16:09:14,890 native-country fbeta: 0.4444
+
+2021-08-23 16:09:14,899 Feature: native-country
+2021-08-23 16:09:14,900 Class: Hong
+2021-08-23 16:09:14,900 native-country precision: 0.8333
+2021-08-23 16:09:14,900 native-country recall: 0.8333
+2021-08-23 16:09:14,900 native-country fbeta: 0.8333
+
+2021-08-23 16:09:14,909 Feature: native-country
+2021-08-23 16:09:14,909 Class: Ireland
+2021-08-23 16:09:14,909 native-country precision: 1.0000
+2021-08-23 16:09:14,909 native-country recall: 0.6000
+2021-08-23 16:09:14,909 native-country fbeta: 0.7500
+
+2021-08-23 16:09:14,918 Feature: native-country
+2021-08-23 16:09:14,918 Class: Hungary
+2021-08-23 16:09:14,918 native-country precision: 1.0000
+2021-08-23 16:09:14,918 native-country recall: 0.3333
+2021-08-23 16:09:14,918 native-country fbeta: 0.5000
+
+2021-08-23 16:09:14,927 Feature: native-country
+2021-08-23 16:09:14,927 Class: Holand-Netherlands
+2021-08-23 16:09:14,927 native-country precision: 1.0000
+2021-08-23 16:09:14,927 native-country recall: 1.0000
+2021-08-23 16:09:14,927 native-country fbeta: 1.0000
+
+2021-08-23 16:13:04,585 Feature: native-country
+2021-08-23 16:13:04,585 Class: United-States
+2021-08-23 16:13:04,585 native-country precision: 0.8114
+2021-08-23 16:13:04,585 native-country recall: 0.6167
+2021-08-23 16:13:04,585 native-country fbeta: 0.7007
+
+2021-08-23 16:13:04,595 Feature: native-country
+2021-08-23 16:13:04,596 Class: Cuba
+2021-08-23 16:13:04,596 native-country precision: 0.9333
+2021-08-23 16:13:04,596 native-country recall: 0.5600
+2021-08-23 16:13:04,596 native-country fbeta: 0.7000
+
+2021-08-23 16:13:04,605 Feature: native-country
+2021-08-23 16:13:04,605 Class: Jamaica
+2021-08-23 16:13:04,605 native-country precision: 0.5000
+2021-08-23 16:13:04,605 native-country recall: 0.2000
+2021-08-23 16:13:04,605 native-country fbeta: 0.2857
+
+2021-08-23 16:13:04,616 Feature: native-country
+2021-08-23 16:13:04,616 Class: India
+2021-08-23 16:13:04,616 native-country precision: 0.6600
+2021-08-23 16:13:04,616 native-country recall: 0.8250
+2021-08-23 16:13:04,616 native-country fbeta: 0.7333
+
+2021-08-23 16:13:04,630 Feature: native-country
+2021-08-23 16:13:04,630 Class: ?
+2021-08-23 16:13:04,630 native-country precision: 0.7752
+2021-08-23 16:13:04,631 native-country recall: 0.6849
+2021-08-23 16:13:04,631 native-country fbeta: 0.7273
+
+2021-08-23 16:13:04,645 Feature: native-country
+2021-08-23 16:13:04,645 Class: Mexico
+2021-08-23 16:13:04,645 native-country precision: 0.8667
+2021-08-23 16:13:04,645 native-country recall: 0.3939
+2021-08-23 16:13:04,645 native-country fbeta: 0.5417
+
+2021-08-23 16:13:04,656 Feature: native-country
+2021-08-23 16:13:04,656 Class: South
+2021-08-23 16:13:04,656 native-country precision: 0.5263
+2021-08-23 16:13:04,656 native-country recall: 0.6250
+2021-08-23 16:13:04,656 native-country fbeta: 0.5714
+
+2021-08-23 16:13:04,666 Feature: native-country
+2021-08-23 16:13:04,666 Class: Puerto-Rico
+2021-08-23 16:13:04,666 native-country precision: 0.7500
+2021-08-23 16:13:04,666 native-country recall: 0.7500
+2021-08-23 16:13:04,666 native-country fbeta: 0.7500
+
+2021-08-23 16:13:04,674 Feature: native-country
+2021-08-23 16:13:04,674 Class: Honduras
+2021-08-23 16:13:04,674 native-country precision: 1.0000
+2021-08-23 16:13:04,674 native-country recall: 1.0000
+2021-08-23 16:13:04,675 native-country fbeta: 1.0000
+
+2021-08-23 16:13:04,684 Feature: native-country
+2021-08-23 16:13:04,684 Class: England
+2021-08-23 16:13:04,684 native-country precision: 0.7917
+2021-08-23 16:13:04,684 native-country recall: 0.6333
+2021-08-23 16:13:04,684 native-country fbeta: 0.7037
+
+2021-08-23 16:13:04,695 Feature: native-country
+2021-08-23 16:13:04,696 Class: Canada
+2021-08-23 16:13:04,696 native-country precision: 0.7586
+2021-08-23 16:13:04,696 native-country recall: 0.5641
+2021-08-23 16:13:04,696 native-country fbeta: 0.6471
+
+2021-08-23 16:13:04,706 Feature: native-country
+2021-08-23 16:13:04,707 Class: Germany
+2021-08-23 16:13:04,707 native-country precision: 0.8485
+2021-08-23 16:13:04,707 native-country recall: 0.6364
+2021-08-23 16:13:04,707 native-country fbeta: 0.7273
+
+2021-08-23 16:13:04,717 Feature: native-country
+2021-08-23 16:13:04,717 Class: Iran
+2021-08-23 16:13:04,717 native-country precision: 0.7368
+2021-08-23 16:13:04,717 native-country recall: 0.7778
+2021-08-23 16:13:04,717 native-country fbeta: 0.7568
+
+2021-08-23 16:13:04,729 Feature: native-country
+2021-08-23 16:13:04,729 Class: Philippines
+2021-08-23 16:13:04,729 native-country precision: 0.8125
+2021-08-23 16:13:04,729 native-country recall: 0.6393
+2021-08-23 16:13:04,729 native-country fbeta: 0.7156
+
+2021-08-23 16:13:04,740 Feature: native-country
+2021-08-23 16:13:04,740 Class: Italy
+2021-08-23 16:13:04,740 native-country precision: 0.8462
+2021-08-23 16:13:04,740 native-country recall: 0.4400
+2021-08-23 16:13:04,740 native-country fbeta: 0.5789
+
+2021-08-23 16:13:04,750 Feature: native-country
+2021-08-23 16:13:04,750 Class: Poland
+2021-08-23 16:13:04,750 native-country precision: 0.8000
+2021-08-23 16:13:04,750 native-country recall: 0.6667
+2021-08-23 16:13:04,750 native-country fbeta: 0.7273
+
+2021-08-23 16:13:04,760 Feature: native-country
+2021-08-23 16:13:04,760 Class: Columbia
+2021-08-23 16:13:04,760 native-country precision: 0.5000
+2021-08-23 16:13:04,760 native-country recall: 1.0000
+2021-08-23 16:13:04,760 native-country fbeta: 0.6667
+
+2021-08-23 16:13:04,770 Feature: native-country
+2021-08-23 16:13:04,770 Class: Cambodia
+2021-08-23 16:13:04,770 native-country precision: 1.0000
+2021-08-23 16:13:04,770 native-country recall: 0.2857
+2021-08-23 16:13:04,770 native-country fbeta: 0.4444
+
+2021-08-23 16:13:04,780 Feature: native-country
+2021-08-23 16:13:04,780 Class: Thailand
+2021-08-23 16:13:04,780 native-country precision: 1.0000
+2021-08-23 16:13:04,780 native-country recall: 1.0000
+2021-08-23 16:13:04,780 native-country fbeta: 1.0000
+
+2021-08-23 16:13:04,789 Feature: native-country
+2021-08-23 16:13:04,789 Class: Ecuador
+2021-08-23 16:13:04,790 native-country precision: 0.5000
+2021-08-23 16:13:04,790 native-country recall: 0.5000
+2021-08-23 16:13:04,790 native-country fbeta: 0.5000
+
+2021-08-23 16:13:04,798 Feature: native-country
+2021-08-23 16:13:04,799 Class: Laos
+2021-08-23 16:13:04,799 native-country precision: 1.0000
+2021-08-23 16:13:04,799 native-country recall: 0.5000
+2021-08-23 16:13:04,799 native-country fbeta: 0.6667
+
+2021-08-23 16:13:04,808 Feature: native-country
+2021-08-23 16:13:04,808 Class: Taiwan
+2021-08-23 16:13:04,808 native-country precision: 0.8421
+2021-08-23 16:13:04,809 native-country recall: 0.8000
+2021-08-23 16:13:04,809 native-country fbeta: 0.8205
+
+2021-08-23 16:13:04,818 Feature: native-country
+2021-08-23 16:13:04,818 Class: Haiti
+2021-08-23 16:13:04,818 native-country precision: 0.6667
+2021-08-23 16:13:04,818 native-country recall: 0.5000
+2021-08-23 16:13:04,818 native-country fbeta: 0.5714
+
+2021-08-23 16:13:04,829 Feature: native-country
+2021-08-23 16:13:04,829 Class: Portugal
+2021-08-23 16:13:04,829 native-country precision: 1.0000
+2021-08-23 16:13:04,829 native-country recall: 0.2500
+2021-08-23 16:13:04,829 native-country fbeta: 0.4000
+
+2021-08-23 16:13:04,840 Feature: native-country
+2021-08-23 16:13:04,840 Class: Dominican-Republic
+2021-08-23 16:13:04,840 native-country precision: 0.0000
+2021-08-23 16:13:04,840 native-country recall: 0.0000
+2021-08-23 16:13:04,840 native-country fbeta: 0.0000
+
+2021-08-23 16:13:04,850 Feature: native-country
+2021-08-23 16:13:04,850 Class: El-Salvador
+2021-08-23 16:13:04,850 native-country precision: 1.0000
+2021-08-23 16:13:04,850 native-country recall: 0.7778
+2021-08-23 16:13:04,850 native-country fbeta: 0.8750
+
+2021-08-23 16:13:04,864 Feature: native-country
+2021-08-23 16:13:04,864 Class: France
+2021-08-23 16:13:04,864 native-country precision: 0.6667
+2021-08-23 16:13:04,864 native-country recall: 0.5000
+2021-08-23 16:13:04,864 native-country fbeta: 0.5714
+
+2021-08-23 16:13:04,880 Feature: native-country
+2021-08-23 16:13:04,881 Class: Guatemala
+2021-08-23 16:13:04,881 native-country precision: 1.0000
+2021-08-23 16:13:04,881 native-country recall: 0.3333
+2021-08-23 16:13:04,881 native-country fbeta: 0.5000
+
+2021-08-23 16:13:04,894 Feature: native-country
+2021-08-23 16:13:04,894 Class: China
+2021-08-23 16:13:04,895 native-country precision: 0.7391
+2021-08-23 16:13:04,895 native-country recall: 0.8500
+2021-08-23 16:13:04,895 native-country fbeta: 0.7907
+
+2021-08-23 16:13:04,910 Feature: native-country
+2021-08-23 16:13:04,910 Class: Japan
+2021-08-23 16:13:04,910 native-country precision: 0.7391
+2021-08-23 16:13:04,910 native-country recall: 0.7083
+2021-08-23 16:13:04,910 native-country fbeta: 0.7234
+
+2021-08-23 16:13:04,920 Feature: native-country
+2021-08-23 16:13:04,921 Class: Yugoslavia
+2021-08-23 16:13:04,921 native-country precision: 0.8000
+2021-08-23 16:13:04,921 native-country recall: 0.6667
+2021-08-23 16:13:04,921 native-country fbeta: 0.7273
+
+2021-08-23 16:13:04,930 Feature: native-country
+2021-08-23 16:13:04,930 Class: Peru
+2021-08-23 16:13:04,931 native-country precision: 1.0000
+2021-08-23 16:13:04,931 native-country recall: 0.5000
+2021-08-23 16:13:04,931 native-country fbeta: 0.6667
+
+2021-08-23 16:13:04,940 Feature: native-country
+2021-08-23 16:13:04,940 Class: Outlying-US(Guam-USVI-etc)
+2021-08-23 16:13:04,940 native-country precision: 1.0000
+2021-08-23 16:13:04,940 native-country recall: 1.0000
+2021-08-23 16:13:04,940 native-country fbeta: 1.0000
+
+2021-08-23 16:13:04,950 Feature: native-country
+2021-08-23 16:13:04,950 Class: Scotland
+2021-08-23 16:13:04,950 native-country precision: 1.0000
+2021-08-23 16:13:04,950 native-country recall: 1.0000
+2021-08-23 16:13:04,950 native-country fbeta: 1.0000
+
+2021-08-23 16:13:04,960 Feature: native-country
+2021-08-23 16:13:04,960 Class: Trinadad&Tobago
+2021-08-23 16:13:04,960 native-country precision: 1.0000
+2021-08-23 16:13:04,960 native-country recall: 0.5000
+2021-08-23 16:13:04,960 native-country fbeta: 0.6667
+
+2021-08-23 16:13:04,970 Feature: native-country
+2021-08-23 16:13:04,970 Class: Greece
+2021-08-23 16:13:04,970 native-country precision: 0.7500
+2021-08-23 16:13:04,970 native-country recall: 0.7500
+2021-08-23 16:13:04,970 native-country fbeta: 0.7500
+
+2021-08-23 16:13:04,980 Feature: native-country
+2021-08-23 16:13:04,980 Class: Nicaragua
+2021-08-23 16:13:04,980 native-country precision: 1.0000
+2021-08-23 16:13:04,980 native-country recall: 0.0000
+2021-08-23 16:13:04,980 native-country fbeta: 0.0000
+
+2021-08-23 16:13:04,990 Feature: native-country
+2021-08-23 16:13:04,990 Class: Vietnam
+2021-08-23 16:13:04,990 native-country precision: 0.5000
+2021-08-23 16:13:04,990 native-country recall: 0.4000
+2021-08-23 16:13:04,990 native-country fbeta: 0.4444
+
+2021-08-23 16:13:05,000 Feature: native-country
+2021-08-23 16:13:05,000 Class: Hong
+2021-08-23 16:13:05,000 native-country precision: 0.8000
+2021-08-23 16:13:05,000 native-country recall: 0.6667
+2021-08-23 16:13:05,000 native-country fbeta: 0.7273
+
+2021-08-23 16:13:05,010 Feature: native-country
+2021-08-23 16:13:05,010 Class: Ireland
+2021-08-23 16:13:05,010 native-country precision: 1.0000
+2021-08-23 16:13:05,010 native-country recall: 0.6000
+2021-08-23 16:13:05,010 native-country fbeta: 0.7500
+
+2021-08-23 16:13:05,020 Feature: native-country
+2021-08-23 16:13:05,020 Class: Hungary
+2021-08-23 16:13:05,020 native-country precision: 1.0000
+2021-08-23 16:13:05,020 native-country recall: 0.3333
+2021-08-23 16:13:05,020 native-country fbeta: 0.5000
+
+2021-08-23 16:13:05,029 Feature: native-country
+2021-08-23 16:13:05,030 Class: Holand-Netherlands
+2021-08-23 16:13:05,030 native-country precision: 1.0000
+2021-08-23 16:13:05,030 native-country recall: 1.0000
+2021-08-23 16:13:05,030 native-country fbeta: 1.0000
+

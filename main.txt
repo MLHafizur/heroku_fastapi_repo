@@ -1,1 +1,2 @@
 2021-08-23 15:34:53,828 ERROR: Failed to read file at ../data/clean_sample.csv
+2021-08-23 16:03:20,526 ERROR: Failed to read file at ../data/clean_sample.csv

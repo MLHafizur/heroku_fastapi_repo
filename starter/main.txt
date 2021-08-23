@@ -11,3 +11,16 @@
 2021-08-23 15:39:59,597 Test recall: 0.5357
 2021-08-23 15:39:59,597 Test fbeta: 0.6315
 
+2021-08-23 16:04:00,391 SUCCESS: Read file at ../data/clean_sample.csv with 32561 rows
+2021-08-23 16:06:28,044 SUCCESS: Read file at ../data/clean_sample.csv with 32561 rows
+2021-08-23 16:09:14,119 Test Set Metrics:
+2021-08-23 16:09:14,119 Test precision: 0.7792
+2021-08-23 16:09:14,120 Test recall: 0.5889
+2021-08-23 16:09:14,120 Test fbeta: 0.6708
+
+2021-08-23 16:10:19,365 SUCCESS: Read file at ../data/clean_sample.csv with 32561 rows
+2021-08-23 16:13:04,303 Test Set Metrics:
+2021-08-23 16:13:04,304 Test precision: 0.7851
+2021-08-23 16:13:04,304 Test recall: 0.5938
+2021-08-23 16:13:04,304 Test fbeta: 0.6762
+
