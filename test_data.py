@@ -5,6 +5,7 @@ import pickle
 from joblib import load
 import src.common_functions
 import numpy as np
+from pandas.core.frame import DataFrame
 
 logging.basicConfig(
     filename='./test/test_data.log',
