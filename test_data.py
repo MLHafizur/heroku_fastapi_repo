@@ -72,9 +72,10 @@ def test_inference_below():
     """
     Check inference performance
     """
-    model = load("data/model/model.joblib")
-    encoder = load("data/model/encoder.joblib")
-    lb = load("data/model/lb.joblib")
+    model = load("model/model.pkl")
+    encoder = load("model/encoder.enc")
+    lb = load("model/lb.enc")
+
 
     array = np.array([[
                      19,
