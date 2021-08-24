@@ -4,6 +4,7 @@ import logging
 import pickle
 from joblib import load
 import src.common_functions
+import numpy as np
 
 logging.basicConfig(
     filename='./test/test_data.log',
