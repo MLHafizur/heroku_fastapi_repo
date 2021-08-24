@@ -68,16 +68,43 @@ def test_data_types(data):
     for category in cat_features:
         assert data[category].dtype == 'object', "The column {} is not of type object".format(category)
         
-def test_process_data(data):
+def test_inference_below():
     """
-    Check split have same number of rows for X and y
+    Check inference performance
     """
-    encoder = load("model/encoder.enc")
-    lb = load("model/lb.enc")
+    model = load("data/model/model.joblib")
+    encoder = load("data/model/encoder.joblib")
+    lb = load("data/model/lb.joblib")
 
-    X_test, y_test, _, _ = src.data(
-        data,
-        categorical_features=cat_features,
-        label="salary", encoder=encoder, lb=lb, training=False)
+    array = np.array([[
+                     19,
+                     "Private",
+                     "HS-grad",
+                     "Never-married",
+                     "Own-child",
+                     "Husband",
+                     "Black",
+                     "Male",
+                     40,
+                     "United-States"
+                     ]])
+    df_temp = DataFrame(data=array, columns=[
+        "age",
+        "workclass",
+        "education",
+        "marital-status",
+        "occupation",
+        "relationship",
+        "race",
+        "sex",
+        "hours-per-week",
+        "native-country",
+    ])
 
-    assert len(X_test) == len(y_test)
+    X, _, _, _ = src.data.process_data(
+                df_temp,
+                categorical_features=cat_features,
+                encoder=encoder, lb=lb, training=False)
+    pred = src.common_functions.inference(model, X)
+    y = lb.inverse_transform(pred)[0]
+    assert y == "<=50K"
