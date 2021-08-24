@@ -2,6 +2,7 @@ import pandas as pd
 import pytest
 import logging
 import pickle
+from joblib import load
 
 logging.basicConfig(
     filename='./test/test_data.log',
