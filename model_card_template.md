@@ -5,7 +5,7 @@ For additional information see the Model Card paper: https://arxiv.org/pdf/1810.
 ## Model Details
 - This model predicts the salary range of an individual
 - The model was built using a random forest classifier
-- Developed by Ahiwe Onyebuchi Valentine in July, 2021. 
+- Developed by Hafizur Rahman in Aug, 2021. 
 
 ## Intended Use
 - This was used in practicing the steps involved in deploying an ML model in a CI/CD pipeline
