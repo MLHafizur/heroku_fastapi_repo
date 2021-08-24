@@ -3,6 +3,7 @@ import pytest
 import logging
 import pickle
 from joblib import load
+import src.common_functions
 
 logging.basicConfig(
     filename='./test/test_data.log',
