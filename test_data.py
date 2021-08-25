@@ -3,8 +3,6 @@ import pytest
 import logging
 import pickle
 from joblib import load
-import src.data
-import src.common_functions
 import numpy as np
 from pandas.core.frame import DataFrame
 
